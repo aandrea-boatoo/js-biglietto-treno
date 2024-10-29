@@ -34,3 +34,4 @@ if(eta >= 65){
 totale = totale.toFixed(2)
 
 console.log("il prezzo del biglietto e' di", totale, "$");
+ 
